@@ -1,0 +1,21 @@
+center{
+    font-family : Albert Sans;
+    font-size: larger;
+    margin: 20%;
+}
+
+body{
+    
+    background-color: whitesmoke;
+}
+
+button{
+    /* border: solid red; */
+    box-shadow: red 100px;
+    border-radius: 5px;
+}
+
+footer{
+    font-family : Albert Sans;
+    margin:0px;
+}
